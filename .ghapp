@@ -1,0 +1,10 @@
+{
+  "id": 182862923,
+  "created_at": "2026-11-17T08:40:02.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["EduVit.r-universe.dev"]
+}
